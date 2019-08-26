@@ -1,0 +1,9 @@
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb

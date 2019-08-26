@@ -1,0 +1,5 @@
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ClientSimulator\bin\Release\ClientSimulator.exe.config
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ClientSimulator\bin\Release\ClientSimulator.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ClientSimulator\bin\Release\ClientSimulator.pdb
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ClientSimulator\obj\Release\ClientSimulator.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ClientSimulator\obj\Release\ClientSimulator.pdb

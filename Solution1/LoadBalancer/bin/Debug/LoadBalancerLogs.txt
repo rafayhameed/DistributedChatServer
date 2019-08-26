@@ -1,0 +1,20 @@
+Wednesday, May 9, 2018 6:30:57 PM : Load Balancer started at 10.105.26.185:9000
+Wednesday, May 9, 2018 6:30:58 PM : Server has connected to the Load Balancer with IP Adress10.105.26.185:11000
+Wednesday, May 9, 2018 6:30:58 PM : Load Balancer started listening for clients at 10.105.26.185:8000
+Wednesday, May 9, 2018 6:31:00 PM : Server has connected to the Load Balancer with IP Adress10.105.27.80:11000
+Wednesday, May 9, 2018 6:31:00 PM : Sending new servirID 10.105.27.80:11000 To 10.105.26.185:11000
+Wednesday, May 9, 2018 6:31:02 PM : Server has connected to the Load Balancer with IP Adress10.105.18.72:11000
+Wednesday, May 9, 2018 6:31:02 PM : Sending new servirID 10.105.18.72:11000 To 10.105.27.80:11000
+Wednesday, May 9, 2018 6:31:02 PM : Sending new servirID 10.105.18.72:11000 To 10.105.26.185:11000
+Wednesday, May 9, 2018 6:31:07 PM : Assigning client 125000 To 10.105.26.185:11000
+Wednesday, May 9, 2018 6:31:08 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:10 PM : updating server size for server : - 10.105.26.185:11000 To 1
+Wednesday, May 9, 2018 6:31:10 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:12 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:14 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:16 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:18 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:20 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:22 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:24 PM : Total client size = 1
+Wednesday, May 9, 2018 6:31:26 PM : Total client size = 1

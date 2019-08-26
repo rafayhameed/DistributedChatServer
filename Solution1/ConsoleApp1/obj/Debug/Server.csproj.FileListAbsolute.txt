@@ -1,0 +1,7 @@
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Rafay.Hamid\Documents\Visual Studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
